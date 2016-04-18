@@ -1,0 +1,2 @@
+se ejecutan con el servidor python --  python -m SimpleHTTPServer
+
